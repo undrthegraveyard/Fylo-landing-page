@@ -1,0 +1,49 @@
+/* CSS Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+input, button, textarea, select {
+  font: inherit;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+/* Global Variables */
+:root {
+  /* Primary Colours */
+  --clr-primary-400: hsl(243, 87%, 12%);
+  --clr-primary-200: hsl(238, 22%, 44%);
+
+  /* Secondary Colours */
+  --clr-accent-Blue: hsl(224, 93%, 58%);
+  --clr-accent-Cyan: hsl(170, 45%, 43%);
+
+  /* Neutral Colours */
+  --clr-neutral-100: hsl(240, 75%, 98%);
+  --clr-neutral-200: hsl(0, 0%, 75%);
+
+  /* Font Family */
+  --ff-heading: 'Raleway', sans-serif;
+  --ff-body: 'Open Sans', sans-serif;
+
+  /* Font Size */
+  --fs-base: 16px;
+
+  /* Font Weight */
+  --fw-base: 400;
+  --fw-bold: 700;
+}
+
+/* Customize Styles */
