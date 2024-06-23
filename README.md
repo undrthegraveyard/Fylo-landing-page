@@ -4,12 +4,12 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
+
+Responsive Fylo Landing Page 
 
 ### The challenge
 
@@ -20,14 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/FInal%20Design%20Desktop%20View.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL:(https://github.com/undrthegraveyard/Fylo-landing-page.git)
+- Live Site URL: (https://undrthegraveyard.github.io/Fylo-landing-page/)
 
 ### Built with
 
@@ -37,24 +35,8 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Shivam Agarwal](https://www.shivamagarwal.au)
+- Frontend Mentor - [@undrthegraveyard](https://www.frontendmentor.io/profile/@undrthegraveyard)
+- Twitter - [@shivam_agarwaal](https://twitter.com/shivam_agarwaal)
