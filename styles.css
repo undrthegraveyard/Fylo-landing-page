@@ -193,6 +193,7 @@ gap: 2rem;
   padding: 0.6rem;
 }
 
+/* INSERT THE HOVER INTERACTION FOR THE SVG ARROW ICON */
 /* Second Section */
 .page__second-section{
   display: flex;
@@ -273,9 +274,18 @@ gap: 2rem;
 
   border-bottom: 1px solid var(--clr-accent-Cyan);
 }
-#arrow-image{
+ .link:focus, .link:hover{
+  color: hsla(170, 49%, 53%, 0.9);
+}
+
+.arrow-image{
+  fill: var(--clr-accent-cyan);
+
   width: 15px;
-  height: auto;
+  height: 15px;
+}
+.arrow-image:focus, .arrow-image:hover{
+  fill: hsla(170, 49%, 53%, 0.9);
 }
 
 .second-section-testimonial{
